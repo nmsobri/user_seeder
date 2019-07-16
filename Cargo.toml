@@ -1,0 +1,10 @@
+[package]
+name = "user_seeder"
+version = "0.1.0"
+authors = ["Sobri <normohdsobri@aemulus.com>"]
+edition = "2018"
+
+[dependencies]
+bcrypt = "0.4"
+yaml-rust = "0.4"
+postgres = "0.15"
