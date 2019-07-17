@@ -19,9 +19,9 @@ accounts:
 
 database:
   driver: 'pgsql'
-  host: '10.42.140.70'
+  host: '10.10.10.10'
   port: '5432'
-  user: 'moridaru_service'
-  pass: 'jBYRb$7GYw'
-  name: 'broadcom_service'
+  user: 'postgres'
+  pass: 'postgres'
+  name: 'moridaru_service'
 
